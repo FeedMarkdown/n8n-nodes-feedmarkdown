@@ -1,0 +1,11 @@
+{
+	"title": "Feedmarkdown test event",
+	"url": "https://example.com/feedmarkdown-test-event",
+	"source": "Feedmarkdown",
+	"author": "Feedmarkdown Test",
+	"published_at": "2026-01-01T12:00:00Z",
+	"markdown": "# Feedmarkdown test event\n\nThis is a sample article sent by the webhook test button. It is not real news and is not stored in your feed.\n\n- Your endpoint received and parsed the payload.\n- Verify the `X-Feedmarkdown-Signature` header with your webhook secret.\n\nReal deliveries carry the full article text in this field.\n",
+	"id": "00000000-0000-4000-8000-000000000000",
+	"feed_id": "00000000-0000-4000-8000-000000000001",
+	"source_id": "00000000-0000-4000-8000-000000000002"
+}

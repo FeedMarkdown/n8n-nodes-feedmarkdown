@@ -1,0 +1,9 @@
+{
+	"node": "n8n-nodes-feedmarkdown.feedmarkdownTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication"],
+	"resources": {
+		"primaryDocumentation": [{ "url": "https://github.com/FeedMarkdown/n8n-nodes-feedmarkdown#readme" }]
+	}
+}
